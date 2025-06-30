@@ -10,8 +10,8 @@ Description
 - Links
 
 ## Education
-Some University
+- Some University
 
 ## Work History
-Workplace 1
-Work Place 2
+- Workplace 1
+- Work Place 2
